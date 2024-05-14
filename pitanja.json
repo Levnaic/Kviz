@@ -1,0 +1,58 @@
+[
+  {
+    "pitanje": "Koji od navedenih jezika se koristi za izradu web stranica?",
+    "odgovor": "a",
+    "odgovorA": "HTML",
+    "odgovorB": "C",
+    "odgovorC": "C++"
+  },
+  {
+    "pitanje": "Koja od sledećih kompanija razvija operativni sistem Windows?",
+    "odgovor": "b",
+    "odgovorA": "Apple",
+    "odgovorB": "Microsoft",
+    "odgovorC": "Google"
+  },
+  {
+    "pitanje": "Šta je 'Wi-Fi' u računarskom svetu?",
+    "odgovor": "b",
+    "odgovorA": "Tip monitora",
+    "odgovorB": "Bežična mreža",
+    "odgovorC": "Softverski program"
+  },
+  {
+    "pitanje": "Kako se naziva procesor koji izvršava naredbe računara?",
+    "odgovor": "c",
+    "odgovorA": "Grafička kartica",
+    "odgovorB": "Hard disk",
+    "odgovorC": "Centralna procesorska jedinica (CPU)"
+  },
+  {
+    "pitanje": "Ko je osnovao kompaniju Apple?",
+    "odgovor": "c",
+    "odgovorA": "Bill Gates",
+    "odgovorB": "Mark Zuckerberg",
+    "odgovorC": "Steve Jobs"
+  },
+  {
+    "pitanje": "Koja od sledećih tehnologija se koristi za čuvanje podataka u oblaku?",
+    "odgovor": "a",
+    "odgovorA": "Cloud",
+    "odgovorB": "Ethernet",
+    "odgovorC": "Bluetooth"
+  },
+  {
+    "pitanje": "Šta je 'URL' u kontekstu interneta?",
+    "odgovor": "b",
+    "odgovorA": "Softverski program",
+    "odgovorB": "Web adresa",
+    "odgovorC": "Bežična mreža"
+  },
+  {
+    "pitanje": "Ko je osnivač kompanije Microsoft?",
+    "odgovor": "a",
+    "odgovorA": "Bill Gates",
+    "odgovorB": "Steve Jobs",
+    "odgovorC": "Mark Zuckerberg"
+  }
+]
